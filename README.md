@@ -23,9 +23,9 @@ The dataset includes the following columns:
 - **code_length**: The character length of the code within the question.
 
 ## Sample Data
-### SO_10K
+### SO_10k
 ![Dataset sample](https://github.com/Confunius/Stackoverflow-10krows/assets/132553855/ea468ba9-4a09-41fa-8f01-afb2e1c275d3)
-### SO_10K_categorized
+### SO_10k_categorized
 <img width="519" alt="image" src="https://github.com/Confunius/Stackoverflow-10krows/assets/132553855/681baa68-745b-4b9c-9132-65171e97a036">
 
 
